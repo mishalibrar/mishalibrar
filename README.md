@@ -1,42 +1,118 @@
-### 👋 Hey there! I’m Mishal Ibrar
+<h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
+<h3 align="center">🚀 React Native Developer | Real-World Mobile & Web Apps | UI-Focused Engineer</h3>
 
-### 💡 What I'm all about
+<p align="center">
+  <a href="https://www.linkedin.com/in/mishalibrar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:mishalibrar12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-I’m a **React Native Developer** with **1 year of hands-on experience**, passionate about building **clean**, **user-friendly** mobile applications. I bring a strong front-end flair with solid backend logic, and my designer’s eye helps me craft UIs that look and feel great.
+---
 
-With a **growth mindset** and natural curiosity, I’m a big believer in **self-learning**,always eager to take on new challenges and explore new tech frontiers.
+## 💡 About Me  
 
-### 🌱 Currently exploring
+I’m a **React Native Developer with 1.5+ years of hands-on experience**, building **real-world, production-level mobile and web applications**.  
 
-* Mobile application development with **React Native**
-* Best practices for **UI/UX in fashion & e-commerce apps**
-* Integrating **geolocation** and **filters** into mobile apps
+I focus on creating **scalable, high-performance, and user-friendly apps** with clean architecture and modern UI.  
 
-### 🛠️ My Toolbox
+With a background in **graphic design**, I bring a strong **UI/UX perspective** into development, making apps and websites not just functional but polished and engaging.
 
-```javascript
-const mySkills = {
-  frontend: ['React Native'],
-  backend: ['Express.js', 'SQL', 'Firebase'],
-  languages: ['JavaScript', 'TypeScript'],
-};
-```
+---
 
-### 💼 A few cool things I’ve accomplished
+## 💼 What I Do  
 
-* Built mobile apps with components like **intro sliders**, **modals**, **carousels**, and **geo-filters**
-* Designed UI prototypes inspired by **Behance** and modern design trends
-* Developed **Gatsby Store**: a clothing store app using reusable components and performance-optimized features
-* Continuously leveling up through **personal learning** and **hands-on projects**
-* Balanced the art of **clean code** with a **creative touch**
+- 📱 Build **cross-platform mobile apps** using React Native  
+- 🌐 Develop **web apps with Next.js**, deployed on Vercel  
+- ⚙️ Develop complete systems (User, Admin & Rider apps)  
+- 🚀 Handle the **full app lifecycle** (design → development → deployment)  
+- 🔗 Integrate **Firebase, REST APIs & real-time features**  
+- ⚡ Optimize apps & websites for **performance, scalability & smooth UX**  
 
-### 🚀 What’s next?
+---
 
-I’m looking forward to working on exciting projects and collaborating with like-minded developers and designers.
-Need a standout mobile UI or a powerful app backend? Let’s make it happen!
+## 🌱 Currently Exploring  
 
-### 📫 Let’s connect!
+- Advanced **React Native architecture & performance optimization**  
+- **Next.js web development** and modern frontend patterns  
+- Scalable **UI/UX systems & design consistency**  
+- **Maps, geolocation & real-time data handling**  
 
-Want to chat about tech trends, apps, or just grab a virtual coffee?
-📎 [LinkedIn](https://www.linkedin.com/in/mishalibrar/)
-📧 [Gmail](mailto:mishalibrar12@gmail.com)
+---
+
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,nodejs,express,git,github,figma" />
+</p>
+
+---
+
+## 💼 Featured Projects  
+
+### 🍔 DineHome – Food Delivery System  
+- Complete system with **User, Rider & Admin apps**  
+- Real-time order flow & tracking  
+- Firebase + API integration  
+
+### 🛍️ E-commerce Mobile App  
+- Product listing, cart, wishlist & checkout  
+- Clean UI with reusable components  
+- Optimized state management  
+
+### 🤖 Brainlytic – AI Study App  
+- AI chat, smart notes & summarization  
+- Focused on productivity & learning  
+
+### 🧘 YogaFit App  
+- API-based fitness tracking  
+- User progress tracking & clean UI  
+
+### 🌐 Next.js Web Apps  
+- Deployed on **Vercel**  
+- Fully responsive and performance-optimized  
+- Examples: personal portfolio, e-commerce frontend, admin dashboards  
+
+---
+
+## ⚡ Key Strengths  
+
+- ✅ Clean, scalable, and maintainable code  
+- 🎨 Strong **UI/UX sense (Graphic Design background)**  
+- 🧠 Real-world problem solving  
+- 📈 Fast learner with a growth mindset  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishalibrar&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 What’s Next  
+
+I’m expanding into **full-stack development**, combining **mobile (React Native)** and **web (Next.js)** to build complete products.  
+
+Open to:  
+- 💼 Freelance opportunities  
+- 🤝 Collaboration  
+- 📚 Learning & growth  
+
+---
+
+## 📫 Let’s Connect  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/mishalibrar/  
+- 📧 Email: mishalibrar12@gmail.com  
+
+---
+
+<p align="center">
+  ⚡ Building real apps, deploying real websites, solving real problems. ⚡
+</p>
