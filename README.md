@@ -14,7 +14,7 @@
 
 ## 💡 About Me  
 
-I’m a **React Native Developer with 1.5+ years of hands-on experience**, building **real-world, production-level mobile and web applications**.  
+I’m a **React Native Developer with 5+ years of hands-on experience**, building **real-world, production-level mobile and web applications**.  
 
 I focus on creating **scalable, high-performance, and user-friendly apps** with clean architecture and modern UI.  
 
