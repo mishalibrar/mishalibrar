@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
-<h3 align="center">🚀 React Native Developer | Real-World Mobile & Web Apps | UI-Focused Engineer</h3>
+# <h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
+
+<h3 align="center">
+🚀 React Native Developer • Mobile Engineer • UI-Focused Full Stack Developer
+</h3>
+
+<p align="center">
+Building production-grade mobile applications with React Native, TypeScript, Firebase, and modern web technologies.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mishalibrar/">
@@ -8,111 +15,262 @@
   <a href="mailto:mishalibrar12@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mishalibrar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 💡 About Me  
+# 💫 About Me
 
-I’m a **React Native Developer with 2+ years of hands-on experience**, building **real-world, production-level mobile and web applications**.  
+I'm a **React Native Developer** with **3+ years of hands-on experience** developing scalable, production-ready mobile applications.
 
-I focus on creating **scalable, high-performance, and user-friendly apps** with clean architecture and modern UI.  
+I specialize in building complete digital products, from UI implementation to backend integration, authentication, notifications, payments, maps, real-time communication, and deployment.
 
-With a background in **graphic design**, I bring a strong **UI/UX perspective** into development, making apps and websites not just functional but polished and engaging.
-
----
-
-## 💼 What I Do  
-
-- 📱 Build **cross-platform mobile apps** using React Native  
-- 🌐 Develop **web apps with Next.js**, deployed on Vercel  
-- ⚙️ Develop complete systems (User, Admin & Rider apps)  
-- 🚀 Handle the **full app lifecycle** (design → development → deployment)  
-- 🔗 Integrate **Firebase, REST APIs & real-time features**  
-- ⚡ Optimize apps & websites for **performance, scalability & smooth UX**  
+Coming from a **Graphic Design** background, I focus on creating applications that are not only technically solid but also intuitive, responsive, and visually polished.
 
 ---
 
-## 🌱 Currently Exploring  
+# 🚀 What I Build
 
-- Advanced **React Native architecture & performance optimization**  
-- **Next.js web development** and modern frontend patterns  
-- Scalable **UI/UX systems & design consistency**  
-- **Maps, geolocation & real-time data handling**  
+* 📱 Cross-platform mobile applications with React Native
+* 🌐 Responsive web applications with Next.js
+* 🔥 Firebase-powered applications
+* 💳 Payment integrations (Stripe)
+* 📍 Maps & Geolocation
+* 💬 Real-time Chat & Notifications
+* ⚡ Offline-first experiences
+* 🔐 Authentication & Role-Based Systems
+* 📦 REST API Integration
+* 🚀 Production deployments & OTA Updates
 
 ---
 
-## 🛠️ Tech Stack  
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,firebase,nodejs,express,git,github,figma" />
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts" />
+</p>
+
+* React Native
+* Expo
+* TypeScript
+* JavaScript
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" />
+</p>
+
+### Database
+
+* Firebase Firestore
+* Realtime Database
+* MySQL
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
 </p>
 
 ---
 
-## 💼 Featured Projects  
+# 💼 Featured Production Projects
 
-### 🍔 DineHome – Food Delivery System  
-- Complete system with **User, Rider & Admin apps**  
-- Real-time order flow & tracking  
-- Firebase + API integration  
+## 🏋️ ApexGym
 
-### 🛍️ E-commerce Mobile App  
-- Product listing, cart, wishlist & checkout  
-- Clean UI with reusable components  
-- Optimized state management  
+A complete fitness coaching platform with dedicated Trainer and Trainee applications.
 
-### 🤖 Brainlytic – AI Study App  
-- AI chat, smart notes & summarization  
-- Focused on productivity & learning  
+### Highlights
 
-### 🧘 YogaFit App  
-- API-based fitness tracking  
-- User progress tracking & clean UI  
-
-### 🌐 Next.js Web Apps  
-- Deployed on **Vercel**  
-- Fully responsive and performance-optimized  
-- Examples: personal portfolio, e-commerce frontend, admin dashboards  
+* Role-based authentication
+* Workout planning
+* Nutrition plans
+* Progress tracking
+* Exercise library
+* Firebase backend
+* Offline support
+* Modern UI
 
 ---
 
-## ⚡ Key Strengths  
+## 🩺 Healthcare Locum Marketplace
 
-- ✅ Clean, scalable, and maintainable code  
-- 🎨 Strong **UI/UX sense (Graphic Design background)**  
-- 🧠 Real-world problem solving  
-- 📈 Fast learner with a growth mindset  
+Production-ready healthcare staffing platform connecting medical professionals with healthcare organizations.
+
+### Features
+
+* AI-powered job matching
+* Stripe Connect payouts
+* Real-time chat
+* GPS shift tracking
+* Compliance document management
+* Push notifications
+* Multi-provider authentication
 
 ---
 
-## 📊 GitHub Stats  
+## 🌿 Smart Wellness Platform
+
+Enterprise wellness ecosystem consisting of:
+
+* React Native Mobile App
+* Smart Kiosk Application
+* Next.js Admin Portal
+* Node.js Backend
+
+### Features
+
+* Wellness session booking
+* Camera-based biometric analysis
+* IoT integration
+* Real-time communication
+* Offline synchronization
+* Multi-role dashboards
+
+---
+
+## 🍔 DineHome Food Delivery Ecosystem
+
+A complete food delivery solution consisting of multiple production applications.
+
+### User App
+
+* Restaurant discovery
+* Live order tracking
+* Payments
+* Google Maps
+* Push notifications
+* AI reorder reminders
+
+### Rider App
+
+* Navigation
+* Live GPS tracking
+* Earnings analytics
+* Catering orders
+* Availability management
+
+---
+
+## 🧘 Bravo Life
+
+Cross-platform self-development and habit tracking application.
+
+### Features
+
+* Daily affirmations
+* Guided journaling
+* Habit tracking
+* Community feed
+* Premium subscriptions
+* Firebase backend
+* OTA Updates
+* Push notifications
+
+---
+
+## 🍽 Food Waste Sharing Platform
+
+A full-stack web platform helping connect food donors with receivers.
+
+### Features
+
+* Admin Dashboard
+* Donor Dashboard
+* Receiver Dashboard
+* Food Claim System
+* Reviews & Ratings
+* REST APIs
+* MySQL Database
+
+---
+
+# ⚡ Experience Working With
+
+* Firebase Authentication
+* Firestore
+* Cloud Functions
+* OneSignal
+* Notifee
+* Google Maps
+* Google Places API
+* Socket.IO
+* Stripe
+* REST APIs
+* Zustand
+* AsyncStorage
+* CodePush / OTA Updates
+* Push Notifications
+* Deep Linking
+* Role-Based Authentication
+
+---
+
+# 📈 Current Focus
+
+* Advanced React Native Architecture
+* Performance Optimization
+* Scalable Application Design
+* Full Stack Development
+* Next.js
+* Clean Architecture
+* Offline-first Mobile Apps
+* AI-powered Mobile Experiences
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishalibrar&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mishalibrar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalibrar&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚀 What’s Next  
+# 🤝 Open To
 
-I’m expanding into **full-stack development**, combining **mobile (React Native)** and **web (Next.js)** to build complete products.  
-
-Open to:  
-- 💼 Freelance opportunities  
-- 🤝 Collaboration  
-- 📚 Learning & growth  
+* Freelance Projects
+* Remote Opportunities
+* React Native Development
+* Mobile App Development
+* Frontend Development
+* UI Implementation
+* Full Stack Projects
+* Open Source Collaboration
 
 ---
 
-## 📫 Let’s Connect  
+# 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/mishalibrar/  
-- 📧 Email: mishalibrar12@gmail.com  
+* 💼 LinkedIn: https://www.linkedin.com/in/mishalibrar/
+* 📧 Email: [mishalibrar12@gmail.com](mailto:mishalibrar12@gmail.com)
 
 ---
 
 <p align="center">
-  ⚡ Building real apps, deploying real websites, solving real problems. ⚡
+
+### ⚡ Building products that people actually use.
+
+*"Clean code. Beautiful UI. Reliable apps."*
+
 </p>
