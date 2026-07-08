@@ -1,276 +1,496 @@
-# <h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
+<h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
 
 <h3 align="center">
-🚀 React Native Developer • Mobile Engineer • UI-Focused Full Stack Developer
+🚀 React Native Developer • Mobile Engineer • Full Stack Developer
 </h3>
 
 <p align="center">
-Building production-grade mobile applications with React Native, TypeScript, Firebase, and modern web technologies.
+Building production-grade mobile and web applications with React Native, Next.js, TypeScript & Firebase.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mishalibrar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mishalibrar12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=mishalibrar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<a href="https://www.linkedin.com/in/mishalibrar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mishalibrar12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+App+Engineer;Next.js+Developer;Firebase+Developer;Building+Production+Grade+Applications" />
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm a **React Native Developer** with **3+ years of hands-on experience** developing scalable, production-ready mobile applications.
-
-I specialize in building complete digital products, from UI implementation to backend integration, authentication, notifications, payments, maps, real-time communication, and deployment.
-
-Coming from a **Graphic Design** background, I focus on creating applications that are not only technically solid but also intuitive, responsive, and visually polished.
-
----
-
-# 🚀 What I Build
-
-* 📱 Cross-platform mobile applications with React Native
-* 🌐 Responsive web applications with Next.js
-* 🔥 Firebase-powered applications
-* 💳 Payment integrations (Stripe)
-* 📍 Maps & Geolocation
-* 💬 Real-time Chat & Notifications
-* ⚡ Offline-first experiences
-* 🔐 Authentication & Role-Based Systems
-* 📦 REST API Integration
-* 🚀 Production deployments & OTA Updates
+I'm a **React Native Developer** with **3+ years of professional experience** building scalable, production-ready mobile applications.
+I enjoy transforming ideas into polished digital products with clean architecture, modern UI, excellent performance, and intuitive user experiences.
+My expertise spans the complete product lifecycle from UI implementation and backend integration to deployment and maintenance.
+Coming from a **Graphic Design** background allows me to combine engineering with design thinking, creating applications that are both beautiful and functional.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 What I Do
 
-### Mobile
+- 📱 Cross-platform Mobile App Development
+- 🌐 Modern Web Development
+- ⚙️ REST API Integration
+- 🔥 Firebase Development
+- 💬 Real-time Communication
+- 📍 Google Maps & Geolocation
+- 💳 Payment Integration
+- 🔔 Push Notifications
+- ⚡ Performance Optimization
+- 🎨 UI/UX Implementation
+- 🚀 Deployment & OTA Updates
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts" />
+---
+
+# 🌱 Currently Learning
+
+- Advanced React Native Architecture
+- Performance Optimization
+- Clean Architecture
+- Next.js Full Stack Development
+- AI Integration
+- Offline-first Applications
+- Enterprise Scale Mobile Apps
+
+---
+
+# 💻 Tech Stack
+
+## 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,ts,js,firebase" height="48"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-* React Native
-* Expo
-* TypeScript
-* JavaScript
+## 🌐 Frontend
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
 </p>
 
-### Backend
+## ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql"/>
 </p>
 
-### Database
+## 🗄 Database
 
-* Firebase Firestore
-* Realtime Database
-* MySQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+</p>
 
-### Tools
+## 🎨 Design & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,npm"/>
+</p>
+
+## ☁ Deployment
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vercel,firebase"/>
 </p>
 
 ---
 
-# 💼 Featured Production Projects
+# ⚡ Technologies & Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
+
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps"/>
+
+<img src="https://img.shields.io/badge/OneSignal-EF2A5A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Notifee-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CodePush-68217A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🏆 Featured Production Projects
 
 ## 🏋️ ApexGym
 
-A complete fitness coaching platform with dedicated Trainer and Trainee applications.
+**Cross-platform fitness coaching platform**
 
-### Highlights
-
-* Role-based authentication
-* Workout planning
-* Nutrition plans
-* Progress tracking
-* Exercise library
-* Firebase backend
-* Offline support
-* Modern UI
+- Trainer & Trainee Apps
+- Firebase Authentication
+- Workout Plans
+- Nutrition Plans
+- Progress Tracking
+- Offline Exercise Library
+- Modern UI
+- TypeScript
+- Expo
 
 ---
 
-## 🩺 Healthcare Locum Marketplace
+## 🩺 LocumForce
 
-Production-ready healthcare staffing platform connecting medical professionals with healthcare organizations.
+**Healthcare staffing marketplace**
 
-### Features
-
-* AI-powered job matching
-* Stripe Connect payouts
-* Real-time chat
-* GPS shift tracking
-* Compliance document management
-* Push notifications
-* Multi-provider authentication
+- AI Job Matching
+- Stripe Connect
+- Socket.IO Chat
+- GPS Shift Tracking
+- Compliance Documents
+- Push Notifications
+- Firebase
+- Google Maps
+- Real-time Messaging
 
 ---
 
 ## 🌿 Smart Wellness Platform
 
-Enterprise wellness ecosystem consisting of:
+Enterprise wellness ecosystem consisting of
 
-* React Native Mobile App
-* Smart Kiosk Application
-* Next.js Admin Portal
-* Node.js Backend
-
-### Features
-
-* Wellness session booking
-* Camera-based biometric analysis
-* IoT integration
-* Real-time communication
-* Offline synchronization
-* Multi-role dashboards
+- React Native App
+- Smart Kiosk Runtime
+- Next.js Admin Portal
+- Node Backend
+- Camera Biometric Analysis
+- IoT Device Integration
+- Offline Sync
+- Multi-role System
 
 ---
 
-## 🍔 DineHome Food Delivery Ecosystem
+## 🍔 DineHome User App
 
-A complete food delivery solution consisting of multiple production applications.
-
-### User App
-
-* Restaurant discovery
-* Live order tracking
-* Payments
-* Google Maps
-* Push notifications
-* AI reorder reminders
-
-### Rider App
-
-* Navigation
-* Live GPS tracking
-* Earnings analytics
-* Catering orders
-* Availability management
-
----
-
-## 🧘 Bravo Life
-
-Cross-platform self-development and habit tracking application.
+A production-ready food delivery application built for the Norwegian market.
 
 ### Features
 
-* Daily affirmations
-* Guided journaling
-* Habit tracking
-* Community feed
-* Premium subscriptions
-* Firebase backend
-* OTA Updates
-* Push notifications
+- 🍽 Restaurant Discovery
+- 🔍 Smart Search & Filters
+- 🛒 Cart & Checkout
+- 💳 Payment Integration
+- 📍 Google Maps & Places
+- 🚚 Live Order Tracking
+- 🔔 OneSignal Notifications
+- 🔄 CodePush OTA Updates
+- 🌍 Multilingual Support
+- 🤖 AI-powered Reorder Reminders
+- ⚡ Optimized Performance
+
+**Tech Stack**
+
+`React Native` • `TypeScript` • `Firebase` • `Laravel API` • `Google Maps` • `OneSignal` • `Notifee` • `Zustand`
+
+---
+
+## 🛵 DineHome Rider App
+
+Production-grade rider application built for delivery partners.
+
+### Features
+
+- 📦 Order Management
+- 📍 Live GPS Tracking
+- 🧭 Google Maps Navigation
+- 💰 Earnings Dashboard
+- 🚚 Catering Order Support
+- 🟢 Online / Offline Status
+- 🔔 Push Notifications
+- 🔄 CodePush OTA Updates
+
+**Tech Stack**
+
+`React Native` • `Firebase` • `Google Maps` • `Laravel API`
+
+---
+
+## 🌱 Bravo Life
+
+A complete self-development & wellness application.
+
+### Features
+
+- ✨ Daily Affirmations
+- 📖 Guided Journaling
+- 🎯 Habit Tracking
+- 🔥 Streak System
+- 👥 Community Feed
+- 🏅 Achievement Badges
+- 💎 Premium Subscriptions
+- 🌍 Multi-language Support
+- ☁ Firebase Backend
+- 🔔 Smart Push Notifications
+
+**Tech Stack**
+
+`React Native` • `Firebase` • `Cloud Functions` • `TypeScript`
 
 ---
 
 ## 🍽 Food Waste Sharing Platform
 
-A full-stack web platform helping connect food donors with receivers.
+Full-stack web application helping reduce food waste.
 
 ### Features
 
-* Admin Dashboard
-* Donor Dashboard
-* Receiver Dashboard
-* Food Claim System
-* Reviews & Ratings
-* REST APIs
-* MySQL Database
+- 👤 Admin Dashboard
+- 🏢 Donor Dashboard
+- 🙋 Receiver Dashboard
+- 🍱 Food Listing System
+- ✅ Claim Requests
+- ⭐ Ratings & Reviews
+- 📊 Activity Logs
+- 🚨 Urgency Management
+- 🔐 Authentication
+- 📦 REST APIs
+
+**Tech Stack**
+
+`PHP` • `MySQL` • `JavaScript` • `HTML` • `CSS`
 
 ---
 
-# ⚡ Experience Working With
+# 💼 Experience
 
-* Firebase Authentication
-* Firestore
-* Cloud Functions
-* OneSignal
-* Notifee
-* Google Maps
-* Google Places API
-* Socket.IO
-* Stripe
-* REST APIs
-* Zustand
-* AsyncStorage
-* CodePush / OTA Updates
-* Push Notifications
-* Deep Linking
-* Role-Based Authentication
-
----
-
-# 📈 Current Focus
-
-* Advanced React Native Architecture
-* Performance Optimization
-* Scalable Application Design
-* Full Stack Development
-* Next.js
-* Clean Architecture
-* Offline-first Mobile Apps
-* AI-powered Mobile Experiences
+✔ Production Mobile Apps
+✔ Enterprise Applications
+✔ Healthcare Platforms
+✔ Food Delivery Systems
+✔ Fitness Applications
+✔ Wellness Platforms
+✔ AI-powered Features
+✔ Firebase Ecosystem
+✔ Payment Integration
+✔ Maps & Geolocation
+✔ Real-time Communication
+✔ Push Notifications
+✔ Offline-first Applications
+✔ REST API Integration
+✔ Authentication Systems
+✔ Role-Based Applications
+✔ State Management
+✔ Responsive UI
+✔ Clean Architecture
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Core Skills
+
+### Mobile Development
+
+- React Native
+- Expo
+- Native Modules
+- TypeScript
+- JavaScript
+
+### Backend Integration
+
+- Firebase
+- Firestore
+- Authentication
+- REST APIs
+- Express.js
+- Node.js
+
+### App Features
+
+- Push Notifications
+- Deep Linking
+- Maps
+- Geolocation
+- Payment Gateways
+- OTA Updates
+- Offline Storage
+- Socket.IO
+- Cloud Functions
+
+### UI / UX
+
+- Responsive Design
+- Reusable Components
+- Modern Interfaces
+- Animations
+- Performance Optimization
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mishalibrar&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=mishalibrar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalibrar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalibrar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishalibrar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+[<img src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+](https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg)
+
+</p>
+
+> **Note:** This animation requires a GitHub Action. I'll share the workflow below.
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building production-scale React Native applications
+- 🌐 Developing full-stack products with Next.js
+- 🤖 Integrating AI into mobile applications
+- ⚡ Improving app performance and architecture
+- 📚 Learning scalable system design
+- 🎨 Creating beautiful, user-friendly interfaces
+
+---
+
+# 📚 Currently Working With
+
+- React Native 0.80+
+- Expo
+- TypeScript
+- Next.js
+- Firebase
+- Firestore
+- Express.js
+- Node.js
+- Zustand
+- Socket.IO
+- Stripe
+- Google Maps
+- OneSignal
+- Notifee
+- CodePush / OTA Updates
+
+---
+
+# 🌟 Highlights
+
+- 📱 7+ Production Applications
+- 💼 Enterprise & Client Projects
+- ⚡ Real-time Mobile Applications
+- 🎨 UI/UX Focused Development
+- 🔥 Firebase Specialist
+- 🚀 Performance Optimized Apps
+- 🌍 Cross-platform Development
+- 🧩 Scalable Architecture
+- 🤝 Team Collaboration
+- 📦 Complete Product Development
+
+---
+
+# 💡 Fun Facts
+
+- 🎨 Started as a Graphic Designer before becoming a developer.
+- 📱 Passionate about building polished mobile experiences.
+- 💻 Love solving real-world problems with technology.
+- 🚀 Always exploring new tools and modern development practices.
+- 🌱 Believe that continuous learning is the key to growth.
 
 ---
 
 # 🤝 Open To
 
-* Freelance Projects
-* Remote Opportunities
-* React Native Development
-* Mobile App Development
-* Frontend Development
-* UI Implementation
-* Full Stack Projects
-* Open Source Collaboration
+I'm always interested in collaborating on exciting projects and opportunities.
+
+- 💼 Freelance Projects
+- 🌍 Remote Opportunities
+- 📱 React Native Development
+- 🌐 Next.js Development
+- 🤝 Open Source Contributions
+- 🚀 Startup Projects
+- 🎯 Long-term Collaborations
 
 ---
 
-# 📫 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/mishalibrar/
-* 📧 Email: [mishalibrar12@gmail.com](mailto:mishalibrar12@gmail.com)
-
----
+# 📫 Let's Connect
 
 <p align="center">
 
-### ⚡ Building products that people actually use.
+<a href="https://www.linkedin.com/in/mishalibrar">
+<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-*"Clean code. Beautiful UI. Reliable apps."*
+<a href="mailto:mishalibrar12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-mishalibrar12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Thanks for Visiting!
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=120&section=footer"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</p>
+
+<p align="center">
+
+*"Building products that people actually use."*
+
+**Clean Code • Beautiful UI • Reliable Apps**
 
 </p>
