@@ -377,10 +377,7 @@ Full-stack web application helping reduce food waste.
 # 🐍 Contribution Snake
 
 <p align="center">
-
-[<img src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-](https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 > **Note:** This animation requires a GitHub Action. I'll share the workflow below.
