@@ -1,436 +1,269 @@
 <h1 align="center">Hi 👋, I'm Mishal Ibrar</h1>
 
 <h3 align="center">
-🚀 React Native Developer • Mobile Engineer • Full Stack Developer
+Mobile & Web Developer • React Native • Next.js • MERN
 </h3>
 
 <p align="center">
-Building production-grade mobile and web applications with React Native, Next.js, TypeScript & Firebase.
+I build mobile apps and the web platforms behind them.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mishalibrar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+React Native • Next.js • TypeScript • Node.js • MongoDB • Expo
+</p>
 
+<p align="center">
+<a href="https://portfolio-mishal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mishalibrar/">
+<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="mailto:mishalibrar12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+App+Engineer;Next.js+Developer;Firebase+Developer;Building+Production+Grade+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=React+Native+Developer;Mobile+%26+Web+Developer;Next.js+%7C+MERN+Developer;Building+Production+Grade+Products;From+Mobile+Apps+to+Full+Stack+Platforms"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-I'm a **React Native Developer** with **3+ years of professional experience** building scalable, production-ready mobile applications.
-I enjoy transforming ideas into polished digital products with clean architecture, modern UI, excellent performance, and intuitive user experiences.
-My expertise spans the complete product lifecycle from UI implementation and backend integration to deployment and maintenance.
-Coming from a **Graphic Design** background allows me to combine engineering with design thinking, creating applications that are both beautiful and functional.
+I'm a **Mobile & Web Developer** specializing in **React Native, Next.js and MERN**.
 
----
+I build products end to end, from the mobile application people install to the web dashboards teams use to operate them, backed by APIs, databases and third-party services.
 
-# 🚀 What I Do
+With **3+ years of professional experience** and **15+ products delivered**, I've worked across fitness, healthcare, automotive, wellness and other real-world product environments.
 
-- 📱 Cross-platform Mobile App Development
-- 🌐 Modern Web Development
-- ⚙️ REST API Integration
-- 🔥 Firebase Development
-- 💬 Real-time Communication
-- 📍 Google Maps & Geolocation
-- 💳 Payment Integration
-- 🔔 Push Notifications
-- ⚡ Performance Optimization
-- 🎨 UI/UX Implementation
-- 🚀 Deployment & OTA Updates
+I care about more than getting an app to run. I focus on:
+
+* Clean and maintainable architecture
+* Smooth mobile experiences
+* Performance on real devices
+* Reliable backend integration
+* Offline-first experiences where needed
+* Production deployment and releases
+* Building interfaces that are actually enjoyable to use
+
+My background in **Graphic Design** also gives me a strong interest in UI, visual hierarchy and product experience.
 
 ---
 
-# 🌱 Currently Learning
+# ⚡ What I Build
 
-- Advanced React Native Architecture
-- Performance Optimization
-- Clean Architecture
-- Next.js Full Stack Development
-- AI Integration
-- Offline-first Applications
-- Enterprise Scale Mobile Apps
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 📱 Mobile
 
-# 💻 Tech Stack
+Production React Native applications for iOS and Android.
 
-## 📱 Mobile Development
+* React Native
+* Expo & EAS
+* Expo Router
+* Reanimated
+* Skia
+* Offline-first apps
+* Store releases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,firebase" height="48"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
+</td>
 
-## 🌐 Frontend
+<td width="33%" valign="top">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind"/>
-</p>
+### 🌐 Web
 
-## ⚙️ Backend
+Modern web applications and dashboards built for real production environments.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql"/>
-</p>
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Server Components
+* TanStack Query
 
-## 🗄 Database
+</td>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
-</p>
+<td width="33%" valign="top">
 
-## 🎨 Design & Tools
+### ⚙️ Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,npm"/>
-</p>
+Services and APIs powering mobile and web products.
 
-## ☁ Deployment
+* Node.js
+* Express
+* MongoDB
+* PostgreSQL
+* REST APIs
+* tRPC
+* Authentication
+* Stripe
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vercel,firebase"/>
-</p>
-
----
-
-# ⚡ Technologies & Libraries
-
-<p>
-
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
-
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe"/>
-
-<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps"/>
-
-<img src="https://img.shields.io/badge/OneSignal-EF2A5A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Notifee-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Zustand-593D88?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CodePush-68217A?style=for-the-badge"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Featured Production Projects
+# 🚀 Selected Work
 
 ## 🏋️ ApexGym
 
-**Cross-platform fitness coaching platform**
+### Modern Fitness Coaching Platform
 
-- Trainer & Trainee Apps
-- Firebase Authentication
-- Workout Plans
-- Nutrition Plans
-- Progress Tracking
-- Offline Exercise Library
-- Modern UI
-- TypeScript
-- Expo
+A full-stack fitness platform that enables personal trainers to manage their coaching business through one connected ecosystem.
+
+The product combines a **Next.js web dashboard with React Native mobile applications**, covering workout programming, client progress and referral onboarding.
+
+**Highlights**
+
+* 7,000+ exercise assets
+* Dedicated portal roles
+* Cross-platform synchronization
+* Workout programming
+* Client progress tracking
+* Referral onboarding
+
+**Stack**
+
+`Next.js` `React` `React Native` `Expo` `TypeScript` `Firebase` `Cloud Firestore`
+
+🌐 [Live Site](https://fitness.helloworldtech.com/)
 
 ---
 
-## 🩺 LocumForce
+## 🦷 BrightSmile
 
-**Healthcare staffing marketplace**
+### Modern Dental Clinic Management Platform
 
-- AI Job Matching
-- Stripe Connect
-- Socket.IO Chat
-- GPS Shift Tracking
-- Compliance Documents
-- Push Notifications
-- Firebase
-- Google Maps
-- Real-time Messaging
+An enterprise-grade **multi-tenant healthcare platform** built to digitize dental clinic operations.
+
+Patients can book appointments while dentists manage treatment plans and interactive odontograms, with clinic operations handled through a unified ecosystem.
+
+**Highlights**
+
+* Multi-tenant architecture
+* Patient online booking
+* Interactive odontograms
+* Treatment planning
+* 5 integrated user portals
+* Automated white-labeling
+* Payment integration
+
+**Stack**
+
+`Next.js` `React` `React Native` `Expo` `Supabase` `PostgreSQL` `Tailwind CSS` `Stripe`
+
+🌐 [Live Site](https://dentist.helloworldtech.com/)
+
+---
+
+## 🚗 ShineCrew
+
+### Modern Car Wash Operating System
+
+A full-stack automotive SaaS platform designed to manage car wash operations from booking to job completion.
+
+The system combines QR-based booking, Stripe payments, real-time cleaner dispatching and operational dashboards.
+
+**Highlights**
+
+* QR-based booking
+* Real-time cleaner dispatching
+* Stripe payments
+* Operational dashboards
+* Before/after job verification
+* Real-time workflows
+
+**Stack**
+
+`Next.js` `React` `React Native CLI` `Node.js` `Express` `MongoDB` `Stripe` `Tailwind CSS` `TypeScript`
+
+🌐 [Live Site](https://carwash.helloworldtech.com/)
 
 ---
 
 ## 🌿 Smart Wellness Platform
 
-Enterprise wellness ecosystem consisting of
+### Enterprise Wellness Pod Ecosystem
 
-- React Native App
-- Smart Kiosk Runtime
-- Next.js Admin Portal
-- Node Backend
-- Camera Biometric Analysis
-- IoT Device Integration
-- Offline Sync
-- Multi-role System
+An enterprise wellness ecosystem connecting **smart kiosks, React Native applications, a Next.js admin portal and backend infrastructure**.
 
----
+The platform manages IoT hardware provisioning, biometric session scheduling and real-time usage analytics.
 
-## 🍔 DineHome User App
+**Highlights**
 
-A production-ready food delivery application built for the Norwegian market.
+* 4 integrated application platforms
+* IoT hardware provisioning
+* Biometric session scheduling
+* Real-time analytics
+* Offline-first kiosk synchronization
+* Real-time device communication
 
-### Features
+**Stack**
 
-- 🍽 Restaurant Discovery
-- 🔍 Smart Search & Filters
-- 🛒 Cart & Checkout
-- 💳 Payment Integration
-- 📍 Google Maps & Places
-- 🚚 Live Order Tracking
-- 🔔 OneSignal Notifications
-- 🔄 CodePush OTA Updates
-- 🌍 Multilingual Support
-- 🤖 AI-powered Reorder Reminders
-- ⚡ Optimized Performance
-
-**Tech Stack**
-
-`React Native` • `TypeScript` • `Firebase` • `Laravel API` • `Google Maps` • `OneSignal` • `Notifee` • `Zustand`
-
----
-
-## 🛵 DineHome Rider App
-
-Production-grade rider application built for delivery partners.
-
-### Features
-
-- 📦 Order Management
-- 📍 Live GPS Tracking
-- 🧭 Google Maps Navigation
-- 💰 Earnings Dashboard
-- 🚚 Catering Order Support
-- 🟢 Online / Offline Status
-- 🔔 Push Notifications
-- 🔄 CodePush OTA Updates
-
-**Tech Stack**
-
-`React Native` • `Firebase` • `Google Maps` • `Laravel API`
-
----
-
-## 🌱 Bravo Life
-
-A complete self-development & wellness application.
-
-### Features
-
-- ✨ Daily Affirmations
-- 📖 Guided Journaling
-- 🎯 Habit Tracking
-- 🔥 Streak System
-- 👥 Community Feed
-- 🏅 Achievement Badges
-- 💎 Premium Subscriptions
-- 🌍 Multi-language Support
-- ☁ Firebase Backend
-- 🔔 Smart Push Notifications
-
-**Tech Stack**
-
-`React Native` • `Firebase` • `Cloud Functions` • `TypeScript`
-
----
-
-## 🍽 Food Waste Sharing Platform
-
-Full-stack web application helping reduce food waste.
-
-### Features
-
-- 👤 Admin Dashboard
-- 🏢 Donor Dashboard
-- 🙋 Receiver Dashboard
-- 🍱 Food Listing System
-- ✅ Claim Requests
-- ⭐ Ratings & Reviews
-- 📊 Activity Logs
-- 🚨 Urgency Management
-- 🔐 Authentication
-- 📦 REST APIs
-
-**Tech Stack**
-
-`PHP` • `MySQL` • `JavaScript` • `HTML` • `CSS`
+`React Native` `Next.js` `Electron` `Node.js` `Express` `Firebase` `Redis` `Socket.IO` `TypeScript`
 
 ---
 
 # 💼 Experience
 
-✔ Production Mobile Apps
-✔ Enterprise Applications
-✔ Healthcare Platforms
-✔ Food Delivery Systems
-✔ Fitness Applications
-✔ Wellness Platforms
-✔ AI-powered Features
-✔ Firebase Ecosystem
-✔ Payment Integration
-✔ Maps & Geolocation
-✔ Real-time Communication
-✔ Push Notifications
-✔ Offline-first Applications
-✔ REST API Integration
-✔ Authentication Systems
-✔ Role-Based Applications
-✔ State Management
-✔ Responsive UI
-✔ Clean Architecture
+### Full Stack Developer
+
+**Hello World Technologies**
+`June 2026 – Present`
+
+Expanded from mobile development into full-stack product development, working across React Native applications, Next.js portals, backend services, database schemas and payment integrations.
+
+`React Native` `Next.js` `Node.js` `MongoDB` `PostgreSQL` `Stripe` `MERN` `TypeScript`
 
 ---
 
-# 🚀 Core Skills
+### React Native Developer
 
-### Mobile Development
+**Hello World Technologies**
+`March 2024 – June 2026`
 
-- React Native
-- Expo
-- Native Modules
-- TypeScript
-- JavaScript
+Built and launched multiple cross-platform applications, working across UI implementation, navigation, API integration, backend synchronization and production releases.
 
-### Backend Integration
-
-- Firebase
-- Firestore
-- Authentication
-- REST APIs
-- Express.js
-- Node.js
-
-### App Features
-
-- Push Notifications
-- Deep Linking
-- Maps
-- Geolocation
-- Payment Gateways
-- OTA Updates
-- Offline Storage
-- Socket.IO
-- Cloud Functions
-
-### UI / UX
-
-- Responsive Design
-- Reusable Components
-- Modern Interfaces
-- Animations
-- Performance Optimization
+`React Native` `Firebase` `Gemini API` `Redux`
 
 ---
 
-# 📊 Contribution Graph
+### Mobile App Instructor
+
+**IT Centre Rahim Yar Khan**
+`March 2025 – Present`
+
+Teaching cross-platform mobile application development, preparing course material and mentoring students from UI implementation through deployment.
+
+`React Native` `Expo` `React Native CLI` `Firebase`
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishalibrar&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,postgresql,firebase,supabase,tailwind,git,github,figma,vscode,vercel&perline=9"/>
 
 </p>
 
----
 
-# 🐍 Contribution Snake
+# 🌍 Open To
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+I'm currently open to:
 
----
-
-# 🎯 Current Focus
-
-- 🚀 Building production-scale React Native applications
-- 🌐 Developing full-stack products with Next.js
-- 🤖 Integrating AI into mobile applications
-- ⚡ Improving app performance and architecture
-- 📚 Learning scalable system design
-- 🎨 Creating beautiful, user-friendly interfaces
-
----
-
-# 📚 Currently Working With
-
-- React Native 0.80+
-- Expo
-- TypeScript
-- Next.js
-- Firebase
-- Firestore
-- Express.js
-- Node.js
-- Zustand
-- Socket.IO
-- Stripe
-- Google Maps
-- OneSignal
-- Notifee
-- CodePush / OTA Updates
-
----
-
-# 🌟 Highlights
-
-- 📱 7+ Production Applications
-- 💼 Enterprise & Client Projects
-- ⚡ Real-time Mobile Applications
-- 🎨 UI/UX Focused Development
-- 🔥 Firebase Specialist
-- 🚀 Performance Optimized Apps
-- 🌍 Cross-platform Development
-- 🧩 Scalable Architecture
-- 🤝 Team Collaboration
-- 📦 Complete Product Development
-
----
-
-# 💡 Fun Facts
-
-- 🎨 Started as a Graphic Designer before becoming a developer.
-- 📱 Passionate about building polished mobile experiences.
-- 💻 Love solving real-world problems with technology.
-- 🚀 Always exploring new tools and modern development practices.
-- 🌱 Believe that continuous learning is the key to growth.
-
----
-
-# 🤝 Open To
-
-I'm always interested in collaborating on exciting projects and opportunities.
-
-- 💼 Freelance Projects
-- 🌍 Remote Opportunities
-- 📱 React Native Development
-- 🌐 Next.js Development
-- 🤝 Open Source Contributions
-- 🚀 Startup Projects
-- 🎯 Long-term Collaborations
+* Full-time opportunities
+* Contract work
+* Freelance projects
+* React Native development
+* Next.js / full-stack projects
+* Startup collaborations
+* Technical product work
 
 ---
 
@@ -438,36 +271,28 @@ I'm always interested in collaborating on exciting projects and opportunities.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mishalibrar">
-<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://portfolio-mishal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-portfolio--mishal.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mishalibrar/">
+<img src="https://img.shields.io/badge/LinkedIn-Mishal%20Ibrar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mishalibrar12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-mishalibrar12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-mishalibrar12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💙 Thanks for Visiting!
-
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=120&section=footer"/>
+### Building mobile apps, web platforms and the systems behind them.
 
 </p>
 
 <p align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-</p>
-
-<p align="center">
-
-*"Building products that people actually use."*
-
-**Clean Code • Beautiful UI • Reliable Apps**
-
+⭐ Feel free to explore my repositories.
 </p>
