@@ -25,7 +25,7 @@ React Native • Next.js • TypeScript • Node.js • MongoDB • Expo
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=React+Native+Developer;Mobile+%26+Web+Developer;Next.js+%7C+MERN+Developer;Building+Production+Grade+Products;From+Mobile+Apps+to+Full+Stack+Platforms"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=React+Native+Developer;Mobile+%26+Web+Developer;Next.js+%7C+MERN+Developer;Building+Production+Grade+Products;From+Mobile+Apps+to+Full+Stack+Platforms"/>
 </p>
 
 ---
@@ -252,6 +252,7 @@ Teaching cross-platform mobile application development, preparing course materia
 
 </p>
 
+---
 
 # 🌍 Open To
 
@@ -264,6 +265,18 @@ I'm currently open to:
 * Next.js / full-stack projects
 * Startup collaborations
 * Technical product work
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake.svg"/>
+</picture>
+</p>
 
 ---
 
