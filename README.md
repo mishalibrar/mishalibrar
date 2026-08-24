@@ -168,7 +168,10 @@ material and mentoring from UI implementation through store deployment.
 
 <br/>
 
-## 📊 Contribution graph
+## 📊 GitHub
+
+<!-- CARDS:START -->
+<!-- CARDS:END -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg">
@@ -178,8 +181,10 @@ material and mentoring from UI implementation through store deployment.
 
 <sub>This profile keeps itself current — see [`.github/workflows`](.github/workflows). The
 install card and table are rendered nightly from live npm data, the snake is regenerated from
-the contribution graph, and every link on this page is crawled weekly. Nothing above is typed
-in by hand or served by a third party.</sub>
+the contribution graph, the stats cards come from a self-hosted
+[github-readme-stats](https://github.com/mishalibrar/github-readme-stats) instance that is
+health-checked before it is embedded, and every link on this page is crawled weekly. Nothing
+above is typed in by hand.</sub>
 
 <br/>
 

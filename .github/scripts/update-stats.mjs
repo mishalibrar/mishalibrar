@@ -21,10 +21,33 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 const PACKAGES = ["rn16k", "rn-arch-check"];
 const SPARK_DAYS = 60;
 
+/**
+ * Self-hosted github-readme-stats instance (the fork at
+ * github.com/mishalibrar/github-readme-stats, deployed to Vercel).
+ *
+ * Own instance rather than the shared public one for two reasons: the public
+ * deployment is a single hobby project serving every profile that points at it
+ * and was returning 503 DEPLOYMENT_PAUSED — a broken image on every one of
+ * them — and a PAT with `repo` scope lets these cards count private
+ * contributions, which is where most of the actual work lives.
+ *
+ * Set to null to drop the cards from the README entirely.
+ */
+const STATS_HOST = process.env.STATS_HOST ?? null;
+const GITHUB_USER = "mishalibrar";
+
+/**
+ * Build-system languages that RN and Flutter templates generate. Counting them
+ * measures the scaffolding, not anything written by hand.
+ */
+const LANG_NOISE = ["cmake", "c++", "ruby", "objective-c", "objective-c++", "starlark"];
+
 const ROOT = new URL("../../", import.meta.url);
 const README = new URL("README.md", ROOT);
 const START = "<!-- STATS:START -->";
 const END = "<!-- STATS:END -->";
+const CARDS_START = "<!-- CARDS:START -->";
+const CARDS_END = "<!-- CARDS:END -->";
 
 /** Matches the portfolio's palette so the two properties read as one identity. */
 const THEMES = {
@@ -189,6 +212,90 @@ ${tileMarkup}
 `;
 }
 
+// ------------------------------------------------------- github-readme-stats
+
+/**
+ * Cards from the self-hosted instance, in both themes.
+ *
+ * `bg_color=00000000` keeps them transparent so they sit on GitHub's own
+ * background in either mode, and the colours are the portfolio's palette so the
+ * two properties read as one identity.
+ */
+function cardUrl(host, path, theme, extra = {}) {
+  const light = { title_color: "7B2434", icon_color: "7B2434", text_color: "2E2A24" };
+  const dark = { title_color: "D4677C", icon_color: "D4677C", text_color: "F2EFE8" };
+  const params = new URLSearchParams({
+    username: GITHUB_USER,
+    hide_border: "true",
+    bg_color: "00000000",
+    ...(theme === "dark" ? dark : light),
+    ...extra,
+  });
+  return `${host.replace(/\/$/, "")}${path}?${params}`;
+}
+
+const CARDS = [
+  {
+    path: "/api",
+    alt: "GitHub stats — commits, pull requests and reviews, private contributions included",
+    extra: {
+      show_icons: "true",
+      include_all_commits: "true",
+      count_private: "true",
+      rank_icon: "github",
+      // The fork is upstream's code, not mine; counting its stars would be a lie.
+      exclude_repo: "github-readme-stats",
+    },
+  },
+  {
+    path: "/api/top-langs/",
+    alt: "Most used languages",
+    extra: {
+      layout: "compact",
+      langs_count: "6",
+      hide: LANG_NOISE.join(","),
+      exclude_repo: "github-readme-stats",
+    },
+  },
+];
+
+/**
+ * Confirms the instance actually serves an SVG before embedding it.
+ *
+ * This is the whole point of the check: a paused or misconfigured deployment
+ * returns a 503 with a text/plain body, which renders as a broken image icon on
+ * the profile and stays there until someone notices. Failing closed — dropping
+ * the section — is strictly better than shipping that.
+ */
+async function healthy(host) {
+  try {
+    const res = await fetch(cardUrl(host, "/api", "light"), {
+      headers: { "user-agent": "mishalibrar-profile" },
+      signal: AbortSignal.timeout(20_000),
+    });
+    const type = res.headers.get("content-type") ?? "";
+    if (!res.ok || !type.includes("svg")) {
+      console.warn(`stats host unhealthy — ${res.status} ${type || "no content-type"}`);
+      return false;
+    }
+    return true;
+  } catch (error) {
+    console.warn(`stats host unreachable — ${error.message}`);
+    return false;
+  }
+}
+
+function renderCards(host) {
+  const picture = CARDS.map(
+    ({ path, alt, extra }) => `  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="${cardUrl(host, path, "dark", extra)}">
+    <img height="165" alt="${alt}" src="${cardUrl(host, path, "light", extra)}">
+  </picture>`,
+  ).join("\n");
+
+  return `<p align="center">\n${picture}\n</p>`;
+}
+
 // ------------------------------------------------------------------------ run
 
 const rows = await Promise.all(PACKAGES.map(collect));
@@ -201,19 +308,33 @@ for (const theme of Object.keys(THEMES)) {
 }
 console.log(`cards rendered — ${series.length} days of data`);
 
-const readme = await readFile(README, "utf8");
-const start = readme.indexOf(START);
-const end = readme.indexOf(END);
-if (start === -1 || end === -1) {
-  throw new Error(`README.md is missing the ${START} / ${END} markers`);
+/** Replaces the body between a marker pair; empty body collapses the section. */
+function splice(source, open, close, body) {
+  const start = source.indexOf(open);
+  const end = source.indexOf(close);
+  if (start === -1 || end === -1) {
+    throw new Error(`README.md is missing the ${open} / ${close} markers`);
+  }
+  const filling = body ? `\n\n${body}\n\n` : "\n";
+  return source.slice(0, start + open.length) + filling + source.slice(end);
 }
 
-const next =
-  readme.slice(0, start + START.length) + "\n\n" + renderTable(rows, stamp) + "\n\n" + readme.slice(end);
+const readme = await readFile(README, "utf8");
+let next = splice(readme, START, END, renderTable(rows, stamp));
+
+if (STATS_HOST && (await healthy(STATS_HOST))) {
+  next = splice(next, CARDS_START, CARDS_END, renderCards(STATS_HOST));
+  console.log("stats cards embedded");
+} else {
+  // No host configured, or the one configured is down — leave the section out
+  // rather than pointing the profile at a broken image.
+  next = splice(next, CARDS_START, CARDS_END, "");
+  console.log(STATS_HOST ? "stats cards omitted — host unhealthy" : "stats cards omitted — no host set");
+}
 
 if (next === readme) {
-  console.log("README table unchanged");
+  console.log("README unchanged");
 } else {
   await writeFile(README, next);
-  console.log("README table updated");
+  console.log("README updated");
 }

@@ -28,6 +28,12 @@ jobs:
 
       - name: Rewrite the table and re-render the cards
         run: node .github/scripts/update-stats.mjs
+        env:
+          # Repo variable, not a secret — Settings -> Secrets and variables ->
+          # Actions -> Variables. Points at the self-hosted github-readme-stats
+          # instance. Unset, or unreachable, and the cards are left out of the
+          # README rather than embedded as broken images.
+          STATS_HOST: ${{ vars.STATS_HOST }}
 
       # No-ops when the numbers are unchanged, so quiet days leave no commit.
       - name: Commit if anything moved
