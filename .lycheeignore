@@ -1,0 +1,10 @@
+# LinkedIn answers automated requests with 999/403 regardless of link health.
+https://www.linkedin.com/.*
+# Shields and the stats cards are generated images, not destinations.
+https://img.shields.io/.*
+https://github-readme-stats.vercel.app/.*
+# Written by the snake workflow on its first run.
+https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/.*
+# npmjs.com serves 403 to non-browser clients; the packages are checked via the
+# registry API in readme-stats.yml instead.
+https://www.npmjs.com/.*

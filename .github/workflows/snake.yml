@@ -1,28 +1,35 @@
-name: Generate Snake Animation
+# Redraws the contribution graph as a snake animation and pushes the SVGs to the
+# `output` branch, which README.md links to via raw.githubusercontent.
+name: Contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *" # daily, 00:00 UTC
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3.5.0
         with:
-          github_user_name: mishalibrar
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist

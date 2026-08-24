@@ -1,0 +1,36 @@
+# Refreshes the live npm numbers between the STATS markers in README.md.
+# Reads the public npm registry and commits with the workflow's own token —
+# there are no secrets to configure.
+name: Refresh README stats
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # daily, 03:30 UTC — after npm rolls its download counters
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Rewrite the stats block
+        run: node .github/scripts/update-stats.mjs
+
+      # No-ops when the numbers are unchanged, so quiet days leave no commit.
+      - name: Commit if anything moved
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: refresh README stats"
+          file_pattern: README.md
