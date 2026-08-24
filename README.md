@@ -82,6 +82,16 @@ that fails silently until Google Play rejects the upload.
 | [**rn16k**](https://github.com/mishalibrar/react-native-16kb-page-support-checker) <br/> <sub>[npm](https://www.npmjs.com/package/rn16k) · zero deps</sub> | Decides whether an Android build meets Android 15's **16 KB page size** requirement — ELF segment and APK ZIP alignment, no Android SDK needed. | It resolves the transitive Maven graph that `node_modules` never shows, then names the dependency that shipped the failing `.so`. |
 | [**rn-arch-check**](https://github.com/mishalibrar/rn-arch-check) <br/> <sub>[npm](https://www.npmjs.com/package/rn-arch-check) · Expo + bare</sub> | Checks every dependency for **New Architecture** support (Fabric, TurboModules, JSI) against React Native Directory. | Sorts by what needs action, quotes npm deprecation notices the directory misses, and exits non-zero only on a confirmed break — so it can gate CI. |
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/installs-dark.svg">
+    <img alt="npm installs across rn16k and rn-arch-check, with a 60-day daily sparkline" src="assets/installs-light.svg" width="720">
+  </picture>
+</p>
+
+<details>
+<summary>Per-package detail — versions, all-time installs, last publish</summary>
+
 <!-- STATS:START -->
 
 | Package | Latest | Installs · 30 days | Installs · all time | Last publish |
@@ -92,6 +102,8 @@ that fails silently until Google Play rejects the upload.
 <sub>Live npm data — rewritten nightly by [`readme-stats.yml`](.github/workflows/readme-stats.yml). Last refresh 2026-08-24.</sub>
 
 <!-- STATS:END -->
+
+</details>
 
 ```bash
 npx rn16k            # 16 KB page size audit
@@ -163,18 +175,7 @@ material and mentoring from UI implementation through store deployment.
 
 <br/>
 
-## 📊 GitHub
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=00000000&title_color=D4677C&icon_color=D4677C&text_color=F2EFE8">
-    <img height="165" alt="Mishal Ibrar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mishalibrar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=7B2434&icon_color=7B2434&text_color=2E2A24">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalibrar&layout=compact&hide_border=true&langs_count=8&theme=github_dark&bg_color=00000000&title_color=D4677C&text_color=F2EFE8">
-    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalibrar&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=7B2434&text_color=2E2A24">
-  </picture>
-</p>
+## 📊 Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake-dark.svg">
@@ -182,9 +183,10 @@ material and mentoring from UI implementation through store deployment.
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/mishalibrar/mishalibrar/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>This profile keeps itself current — see [`.github/workflows`](.github/workflows). The npm
-table above is refreshed nightly from live registry data, the snake is regenerated from the
-contribution graph, and every link on this page is crawled weekly.</sub>
+<sub>This profile keeps itself current — see [`.github/workflows`](.github/workflows). The
+install card and table are rendered nightly from live npm data, the snake is regenerated from
+the contribution graph, and every link on this page is crawled weekly. Nothing above is typed
+in by hand or served by a third party.</sub>
 
 <br/>
 

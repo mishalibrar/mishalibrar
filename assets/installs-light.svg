@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-label="1,679 npm installs in the last 30 days across rn16k and rn-arch-check">
+  <title>npm installs — 1,679 in the last 30 days</title>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7B2434" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#7B2434" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="719" height="189" rx="10" fill="none" stroke="#D8D2C8"/>
+
+  <text x="28" y="34" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#7B2434">OPEN SOURCE · LIVE FROM NPM</text>
+  <text x="692" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#6B6459">2026-08-24</text>
+
+    <text x="28" y="72" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#2E2A24">1,679</text>
+    <text x="28" y="90" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.6" fill="#6B6459">installs · 30 days</text>
+    <text x="249.33333333333334" y="72" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#2E2A24">954</text>
+    <text x="249.33333333333334" y="90" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.6" fill="#6B6459">rn16k</text>
+    <text x="470.6666666666667" y="72" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="30" font-weight="600" fill="#2E2A24">725</text>
+    <text x="470.6666666666667" y="90" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.6" fill="#6B6459">rn-arch-check</text>
+
+  <path d="M 28.0 139.1 C 32.1 141.7, 44.4 152.1, 52.6 154.8 C 60.8 157.5, 69.0 155.2, 77.2 155.3 C 85.4 155.4, 93.6 155.4, 101.8 155.4 C 110.0 155.4, 118.2 155.3, 126.4 155.2 C 134.6 155.2, 142.8 155.1, 151.0 155.2 C 159.2 155.3, 167.4 155.9, 175.6 155.9 C 183.8 156.0, 192.0 159.9, 200.1 155.6 C 208.3 151.3, 216.5 130.2, 224.7 130.1 C 232.9 129.9, 241.1 150.7, 249.3 154.8 C 257.5 158.9, 265.7 154.5, 273.9 154.6 C 282.1 154.7, 290.3 155.2, 298.5 155.4 C 306.7 155.6, 314.9 164.4, 323.1 155.8 C 331.3 147.2, 339.5 104.4, 347.7 104.0 C 355.9 103.6, 364.1 145.3, 372.3 153.5 C 380.5 161.7, 388.7 153.1, 396.9 153.2 C 405.1 153.3, 413.3 153.7, 421.5 154.2 C 429.7 154.7, 437.9 155.8, 446.1 156.0 C 454.3 156.2, 462.5 155.2, 470.7 155.2 C 478.9 155.1, 487.1 155.7, 495.3 155.7 C 503.5 155.7, 511.7 155.4, 519.9 155.0 C 528.0 154.7, 536.2 153.7, 544.4 153.8 C 552.6 153.9, 560.8 155.5, 569.0 155.7 C 577.2 155.9, 585.4 154.9, 593.6 155.0 C 601.8 155.0, 610.0 155.8, 618.2 155.9 C 626.4 156.1, 634.6 155.9, 642.8 155.9 C 651.0 155.9, 659.2 155.9, 667.4 155.9 C 675.6 156.0, 687.9 156.0, 692.0 156.0 L 692.0 156 L 28.0 156 Z" fill="url(#fade)"/>
+  <path d="M 28.0 139.1 C 32.1 141.7, 44.4 152.1, 52.6 154.8 C 60.8 157.5, 69.0 155.2, 77.2 155.3 C 85.4 155.4, 93.6 155.4, 101.8 155.4 C 110.0 155.4, 118.2 155.3, 126.4 155.2 C 134.6 155.2, 142.8 155.1, 151.0 155.2 C 159.2 155.3, 167.4 155.9, 175.6 155.9 C 183.8 156.0, 192.0 159.9, 200.1 155.6 C 208.3 151.3, 216.5 130.2, 224.7 130.1 C 232.9 129.9, 241.1 150.7, 249.3 154.8 C 257.5 158.9, 265.7 154.5, 273.9 154.6 C 282.1 154.7, 290.3 155.2, 298.5 155.4 C 306.7 155.6, 314.9 164.4, 323.1 155.8 C 331.3 147.2, 339.5 104.4, 347.7 104.0 C 355.9 103.6, 364.1 145.3, 372.3 153.5 C 380.5 161.7, 388.7 153.1, 396.9 153.2 C 405.1 153.3, 413.3 153.7, 421.5 154.2 C 429.7 154.7, 437.9 155.8, 446.1 156.0 C 454.3 156.2, 462.5 155.2, 470.7 155.2 C 478.9 155.1, 487.1 155.7, 495.3 155.7 C 503.5 155.7, 511.7 155.4, 519.9 155.0 C 528.0 154.7, 536.2 153.7, 544.4 153.8 C 552.6 153.9, 560.8 155.5, 569.0 155.7 C 577.2 155.9, 585.4 154.9, 593.6 155.0 C 601.8 155.0, 610.0 155.8, 618.2 155.9 C 626.4 156.1, 634.6 155.9, 642.8 155.9 C 651.0 155.9, 659.2 155.9, 667.4 155.9 C 675.6 156.0, 687.9 156.0, 692.0 156.0" fill="none" stroke="#7B2434" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="692.0" cy="156.0" r="3" fill="#7B2434"/>
+
+  <text x="28" y="176" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" fill="#6B6459">2026-07-28</text>
+  <text x="692" y="176" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10" fill="#6B6459">daily installs · peak 754</text>
+</svg>

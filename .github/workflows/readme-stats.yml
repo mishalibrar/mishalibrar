@@ -1,6 +1,7 @@
-# Refreshes the live npm numbers between the STATS markers in README.md.
-# Reads the public npm registry and commits with the workflow's own token —
-# there are no secrets to configure.
+# Regenerates everything on the profile that comes from live data: the npm
+# table between the STATS markers in README.md, and the install card SVGs in
+# assets/. Reads the public npm registry and commits with the workflow's own
+# token — there are no secrets to configure.
 name: Refresh README stats
 
 on:
@@ -25,12 +26,12 @@ jobs:
         with:
           node-version: 24
 
-      - name: Rewrite the stats block
+      - name: Rewrite the table and re-render the cards
         run: node .github/scripts/update-stats.mjs
 
       # No-ops when the numbers are unchanged, so quiet days leave no commit.
       - name: Commit if anything moved
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "chore: refresh README stats"
-          file_pattern: README.md
+          commit_message: "chore: refresh npm stats"
+          file_pattern: README.md assets/*.svg
