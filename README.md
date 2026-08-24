@@ -19,13 +19,6 @@ fitness, healthcare, automotive and wellness. I build the whole round trip — t
 install, the dashboard the team runs it from, the API and database underneath — because owning
 both ends means fewer meetings about whose side the bug is on.
 
-Two apps live on the App Store and Google Play. Two CLIs on npm. One portfolio with a WebGL
-hero that profiles the device first and falls back to CSS when the GPU can't carry it.
-
-```
-Islamabad, PK  ·  UTC+5  ·  overlaps the European working day  ·  open to work in 2026
-```
-
 ### What I'm doing right now
 
 - 🏗️ Building multi-tenant healthcare and fitness platforms — Next.js + React Native from one codebase
