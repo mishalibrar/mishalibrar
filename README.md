@@ -92,7 +92,7 @@ that fails silently until Google Play rejects the upload.
 | [`rn16k`](https://www.npmjs.com/package/rn16k) | `1.2.3` | 91 | 1,011 | 2026-08-10 |
 | [`rn-arch-check`](https://www.npmjs.com/package/rn-arch-check) | `0.1.4` | 92 | 768 | 2026-08-10 |
 
-<sub>Live npm data — rewritten nightly by [`readme-stats.yml`](.github/workflows/readme-stats.yml). Last refresh 2026-09-16.</sub>
+<sub>Live npm data — rewritten nightly by [`readme-stats.yml`](.github/workflows/readme-stats.yml). Last refresh 2026-09-17.</sub>
 
 <!-- STATS:END -->
 
