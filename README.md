@@ -89,10 +89,10 @@ that fails silently until Google Play rejects the upload.
 
 | Package | Latest | Installs · 30 days | Installs · all time | Last publish |
 | --- | --- | --: | --: | --- |
-| [`rn16k`](https://www.npmjs.com/package/rn16k) | `1.2.3` | 32 | 1,247 | 2026-08-10 |
-| [`rn-arch-check`](https://www.npmjs.com/package/rn-arch-check) | `0.1.4` | 38 | 842 | 2026-08-10 |
+| [`rn16k`](https://www.npmjs.com/package/rn16k) | `1.2.3` | 40 | 1,265 | 2026-08-10 |
+| [`rn-arch-check`](https://www.npmjs.com/package/rn-arch-check) | `0.1.4` | 39 | 856 | 2026-08-10 |
 
-<sub>Live npm data — rewritten nightly by [`readme-stats.yml`](.github/workflows/readme-stats.yml). Last refresh 2026-11-03.</sub>
+<sub>Live npm data — rewritten nightly by [`readme-stats.yml`](.github/workflows/readme-stats.yml). Last refresh 2026-11-05.</sub>
 
 <!-- STATS:END -->
 
